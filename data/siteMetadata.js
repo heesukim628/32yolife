@@ -10,8 +10,8 @@ const siteMetadata = {
   siteRepo: '',
   siteLogo: `${process.env.BASE_PATH || ''}/static/images/logo.png`,
   socialBanner: `${process.env.BASE_PATH || ''}/static/images/twitter-card.png`,
-  email: '',
-  linkedin: '',
+  email: 'heesukim628@gmail.com',
+  linkedin: 'https://github.com/heesukim628',
   instagram: 'https://www.instagram.com/hikkumi/',
   locale: 'en-US',
   // set to true if you want a navbar fixed to the top
